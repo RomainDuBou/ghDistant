@@ -8,6 +8,10 @@ Algo HelloWorld {
         Mettre la couleur jaune sur le label
         Ajouter le lable sur la fenetre
         Afficher la fenêtre
+// Label de date : affiché à côté du Hello World
+// Taille de fenêtre : 800x600
+
+
     }
 }
 <<<<<<< HEAD
@@ -19,3 +23,4 @@ Algo HelloWorld {
 
 // Modification GitHub pour C20 : mise à jour en ligne
 
+Close #2 : label date + taille
